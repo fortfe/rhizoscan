@@ -7,7 +7,7 @@
 RhizoScan
 =========
 
-RhizoScan provide a set of tool to analyse 2D images of root system.
+RhizoScan provide a set of tool to analyse 2D images of root system. salut
 
 .. contents::
 
